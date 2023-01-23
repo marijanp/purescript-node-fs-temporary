@@ -1,0 +1,7 @@
+result
+dist-newstyle
+output
+.direnv
+.envrc
+.psci_modules
+.purs-repl
