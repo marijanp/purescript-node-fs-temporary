@@ -39,7 +39,7 @@
               "node-path"
               "node-fs"
               "node-fs-aff"
-              "node-os"
+              purs-nix.ps-pkgs.node-os
               "prelude"
               "random"
             ];
